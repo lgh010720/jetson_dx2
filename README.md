@@ -10,6 +10,10 @@ start, end1, time1 : 코드 실행시간 측정
 
 vel1, vel2 : 각 바퀴 속도
 
+### 실행결과
+
+![image](https://github.com/user-attachments/assets/e671b715-10fa-47cd-a501-2b36c8c077f2)
+
 ---
 
 #### 정지명령(s입력)을 입력했을 때와 프로그램을 종료했을 때(ctrl+c) 바퀴를 손으로 움직일 때 느껴지는 토크 차이를 설명하라.
