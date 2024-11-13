@@ -22,4 +22,4 @@ vel1, vel2 : 각 바퀴 속도
 
 #### Ctrl+c를 눌렀을때 실습과제1(dx1)의 결과와 다른 이유를 설명하라.
 
-사용자 입력을 mx.kbhit() 함수로 받기때문에 바로  if (ctrl_c_pressed) break; 함수로 넘어가 명령이 처리가 될 수 있음
+사용자 입력을  if (mx.kbhit()) 함수로 받기때문에 바로  if (ctrl_c_pressed) break; 함수로 넘어가 명령이 처리가 될 수 있음
